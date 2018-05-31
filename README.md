@@ -1,4 +1,5 @@
 # SampleStore
+This is an initial setup of a store with one action and a reducer and one action being dispatched from the component.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
